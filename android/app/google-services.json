@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "504121233435",
+    "firebase_url": "https://fir-41aef.firebaseio.com",
+    "project_id": "fir-41aef",
+    "storage_bucket": "fir-41aef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504121233435:android:f86950445f76ad71f528be",
+        "android_client_info": {
+          "package_name": "com.example.notekeeper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "504121233435-boghjphadh4ava03hgllh76m6cioevta.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.notekeeper",
+            "certificate_hash": "577a8c20de6a75b1d38d6d7e7625421f5c272017"
+          }
+        },
+        {
+          "client_id": "504121233435-lfodml7b05u1f2i121th06in89vv4214.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUACFEPAwISqbz_uljM7Resm6Cqsbwpjs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "504121233435-lfodml7b05u1f2i121th06in89vv4214.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
