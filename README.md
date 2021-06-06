@@ -1,6 +1,5 @@
 # notekeeper
-
-A new Flutter project.
+You can save your notes with this application
 
 ## Getting Started
 
